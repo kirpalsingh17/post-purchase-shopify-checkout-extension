@@ -1,0 +1,13 @@
+{
+  "name": "post-purchase",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "react": "^17.0.0",
+    "@shopify/post-purchase-ui-extensions-react": "^0.13.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0"
+  }
+}
